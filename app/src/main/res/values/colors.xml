@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="fundo">#428AEB</color>
+    <color name="primaria">#C01F3FB6</color>
+    <color name="primaria_vaiacao">#C0031B75</color>
+</resources>
